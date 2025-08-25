@@ -55,5 +55,6 @@ Dieses Modell wird unter der **Creative Commons Attribution-ShareAlike 4.0 Inter
 ## Zitation
 
 Wenn Sie dieses Modell in wissenschaftlichen Arbeiten oder Projekten nutzen, zitieren Sie bitte:
+
 **Aufhauser, Martin (2025): Energieraumpläne 2.0. Entwurf einer integrativen räumlichen Energieplanung für Bestandsquartiere in Wien, Diplomarbeit, Technische Universität Wien.**
 
