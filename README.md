@@ -33,9 +33,9 @@ Die Submodelle werden nacheinander ausgeführt. Jeder Baublock der Eingangs-Feat
 
 1. **Software:** ArcGIS Pro (Version 3.2.2 oder höher)  
 2. **Dateien:**  
-   - `Energieraumplan2_0.zip` – ZIP-Datei, die alle erforderlichen Geoverarbeitungs-Toolboxen enthält
+   - `Energieraumplan2_0.atbx` – Geoverarbeitungs-Toolbox, die das Hauptmodell und alle Submodelle enthält
 3. **Öffnen in ArcGIS Pro:**  
-   - Toolboxen im Catalog Pane hinzufügen  
+   - Toolbox im Catalog Pane hinzufügen  
    - Submodelle können direkt über das Hauptmodell-Interface ausgeführt werden, nachdem die für den jeweiligen Raum erforderlichen Eingangsdaten hinzugefügt wurden
 4. **Ausgabe:** Feature Class mit den Baublöcken und den zugewiesenen Transformationstypen (0–10)  
 
